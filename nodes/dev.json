@@ -1,0 +1,6 @@
+// JSON snippet to tell chef-solo to build a node which fulfills all roles
+
+{
+  "run_list": [ "role[devbox]"]
+}
+
